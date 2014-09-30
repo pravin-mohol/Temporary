@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:weightSum="2">
+    
+    <RelativeLayout 
+        android:layout_height="0dp"
+        android:layout_width="match_parent"
+        android:layout_weight="0.2"
+        >
+
+        <TextView
+            android:id="@+id/fragmin_generic_layout_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            
+            android:layout_centerVertical="true"
+           
+            
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="23dp"
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+    
+    <View 
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@android:color/black"
+        />
+    
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:layout_height="0dp"
+        android:layout_weight="1.8"
+        android:layout_width="match_parent"
+        android:id="@+id/ll_special_patient_group"
+        android:orientation="horizontal"
+        android:background="@drawable/layout_border">
+
+        <WebView
+            android:id="@+id/generic_layout_webView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+        
+    </LinearLayout>
+    
+
+</LinearLayout>

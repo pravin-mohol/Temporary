@@ -1,0 +1,56 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:weightSum="2" >
+    
+    <RelativeLayout 
+        android:layout_height="0dp"
+        android:layout_width="match_parent"
+        android:layout_weight="0.2">
+
+        <ImageView
+            android:id="@+id/welcome_header_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/fragmin_logo" />
+
+    </RelativeLayout>
+    
+    <LinearLayout 
+        android:layout_height="0dp"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/layout_border"
+        android:layout_margin="5dp">
+     
+        <WebView 
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:id="@+id/welcome_webview"/>
+        
+    </LinearLayout>
+
+    <RelativeLayout 
+        android:layout_height="0dp"
+        android:layout_width="match_parent"
+        android:layout_weight="0.8"
+        >
+
+        <Button
+            android:id="@+id/button1"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="14dp"
+            android:text="@string/btn_ok"
+            android:onClick="welcomeOkResult" 
+           android:background="@drawable/button_shadow"/>
+    
+ </RelativeLayout>    
+
+</LinearLayout>

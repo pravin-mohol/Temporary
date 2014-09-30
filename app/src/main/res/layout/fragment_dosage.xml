@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:weightSum="100"
+   
+   >
+    
+    <!-- For Heading as per the selected Item from Navigation Bar -->
+    <LinearLayout 
+        android:layout_height="0dp"
+        android:layout_width="fill_parent"
+        android:layout_weight="14"
+        android:id="@+id/fragdosage_ll_heading_container"
+        android:orientation="vertical">       
+        <TextView
+            android:layout_height="wrap_content"
+        android:layout_width="fill_parent" 
+        android:text="@string/fragdosage_tv_heading_txt" 
+        android:textSize="25sp"
+        android:gravity="left"
+        android:layout_marginTop="8dp"
+        />
+        <View
+   	 android:layout_width="fill_parent"
+   	 android:layout_height="1dp"	
+    android:background="@android:color/darker_gray"/>
+    </LinearLayout>
+    
+    
+    
+    
+    <LinearLayout 
+        android:layout_height="0dp"
+        android:layout_width="fill_parent"
+        android:layout_weight="36"
+        android:orientation="horizontal"
+        android:weightSum="100"
+        android:id="@+id/fragdosage_ll_picker_container">
+        
+         <kankan.wheel.widget.WheelView android:id="@+id/weight"
+            android:layout_height="fill_parent"
+            android:layout_weight="20"
+            android:layout_width="0dp"
+            android:layout_gravity="right"/>
+        <kankan.wheel.widget.WheelView android:id="@+id/indication"
+            android:layout_height="fill_parent"
+            android:layout_width="0dp"
+            android:layout_weight="80"
+            android:layout_gravity="left"/>       
+    </LinearLayout>
+    
+    
+    
+    <LinearLayout 
+        android:layout_height="0dp"
+        android:layout_width="fill_parent" 
+        android:layout_weight="8">
+     <TextView android:layout_height="wrap_content"
+        android:layout_width="fill_parent" 
+        android:text="@string/fragdosage_tv_belowpickers_txt"/>       
+    </LinearLayout>
+    
+
+    <ExpandableListView
+        android:id="@+id/fragdosage_expandListView"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="42"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        >
+    </ExpandableListView>
+
+</LinearLayout>

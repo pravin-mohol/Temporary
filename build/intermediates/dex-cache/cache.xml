@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Shashi\Projects\Fragmin\TestFragmin\Temporary\app\build\intermediates\pre-dexed\debug\classes-fdfde873000b5018c78e77aea61e81940f1a580f.jar"
+        jar="C:\Shashi\Projects\Fragmin\TestFragmin\Temporary\app\build\intermediates\exploded-aar\Temporary\wheel\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d8a1f0b6c770edee4de8dacde1847499d7c07a9f"/>
+    <item
+        dex="C:\Shashi\Projects\Fragmin\TestFragmin\Temporary\app\build\intermediates\pre-dexed\debug\classes-5a60bd8abbd46627fca72680cbfc517e6aa9f7a5.jar"
+        jar="C:\Shashi\Projects\Fragmin\TestFragmin\Temporary\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="C:\Shashi\Projects\Fragmin\TestFragmin\Temporary\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-172c13a5cddbe5e073448e91f2e7c97c09bca6bb.jar"
+        jar="C:\Program Files\Android\android-studio3\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+
+</pre-dex-items>

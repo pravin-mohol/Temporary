@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fragmin</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Welcome Screen -->
+
+    <string name="title_activity_welcome">Velkommen</string>
+    <string name="welcome_screen_text">
+<![CDATA[<html><body>
+        <p>Denne appen kan brukes av helsepersonell som hjelp til å finne riktig dosering og få tilgang til  informasjon om bruk av Fragmin, i overensstemmelse med den valgte indikasjonen og pasientens vekt.  Appen bør brukes som et hjelpemiddel til eksisterende retningslinjer og alle doseberegninger må vurderes før bruk</p>
+
+
+		<p>Denne appen fratar ikke helsepersonell ansvar for å sikre at riktig dose administreres til pasienten.</p>
+
+        </body></html>]]>
+    </string>
+    <!-- Welcome screen ends -->
+
+
+    <!-- Terms of use screen -->
+
+    <string name="title_activity_terms_of_use">Vilkår for bruk</string>
+    <string name="Btn_Agree">Jeg er enig</string>
+    <string name="Btn_Disagree">Jeg er uenig</string>
+    <string name="Terms_of_use">Fragmin® Dosing Guide App TERMS OF USE </string>
+    <string name="terms_of_use_description" formatted="false">
+<![CDATA[<html<body width="100%">
+    <center> <u><b>Fragmin® Doseringsveileder BRUKERVILKÅR</b> </u></center>
+    <p><center> <b>NORGE</b></center></p>
+    <p>
+    <strong><u>Oversikt & Formål</u></strong>
+    Fragmin® Doseringsveileder er en mobilapplikasjon for iPhone og Android (“smarttelefon”) utviklet av og for Pfizer AS i Norge til bruk kun av helsepersonell (“Brukerne“) for å gi informasjon om legemidlet Fragmin®, herunder en doseringskalkulator og konverteringstabell (“Fragmin App“). Formålet er å forenkle Brukernes tilgang til informasjon.
+    </p>
+    <p>
+    Fragmin App er klassifisert som medisinsk utstyr klasse 1, og er CE-merket i samsvar med gjeldende EU-regelverk og -veiledninger.  Pfizer Inc er ansvarlig produsent («Legal Manufacturer») av Fragmin App.  Pfizer Consumer Healthcare Limited er ansvarlig representant i EU for Fragmin App.
+    </p>
+    <p>
+    Med “Pfizer“ forstås i disse Brukervilkårene selskaper i Pfizer-konsernet, herunder Pfizer Inc., Pfizer Consumer Healthcare Limited og Pfizer AS.
+    </p>
+    <div style="width:100%;height:170px;border:1px solid #000; background-color:#D6D3D3">
+    <center><b>BIVIRKNINGSRAPPORTERING</b></center>
+    Bivirkninger skal rapporteres.  Skjema og informasjon finnes på
+    <font size = "2px"><a  href="https://www.pfizer.no/bivirkningsrapportering">https://www.pfizer.no/bivirkningsrapportering</a></font>
+    <p> <center>Bivirkninger relatert til Pfizers produkter bør også rapporteres til Pfizer på </center>
+    <center>telefon 67 52 61 00</center>
+    </p>
+    </div>
+
+    <div align="center" style="width:100%;height:100px;border:1px solid #000;  padding:20px 0 0 0 ; background-color:#D6D3D3;margin:35px 0 0 0 ;">
+    <b>VED Å INSTALLERE OG BRUKE FRAGMIN APP BEKREFTER DU AT
+    <center>DU ER HELSEPERSONELL SOM PRAKTISERER I NORGE</center></b>
+    </div>
+    <ol style="counter-reset: item;margin-left:10px;padding-left:10px;">
+    <li style="padding-left:15px;"><b>Aksept.</b>Ved å klikke på knappen nedenfor som er merket “Jeg er enig”, eller ved å installere eller bruke Fragmin App, bekrefter du at du er bundet av disse Brukervilkårene.  Dersom du ikke er enig i Brukervilkårene, kan du ikke bruke Fragmin App og du må avslutte installasjonsprosessen. Din bruk av Fragmin App er underlagt disse Brukervilkårene. Brukervilkårene vil være tilgjengelige også i navigasjonsmenyen i Fragmin App.   </li>
+    <li style="padding-left:15px; margin-top:14px;"><b>Lisens.</b>Underlagt disse Brukervilkårene, gir Pfizer deg en ikke-eksklusiv og ikke-overførbar lisens (uten rett til å sublisensiere) til å installere og bruke en kopi av Fragmin App på din smarttelefon i maskinkjørbar objektkodeform, kun for din personlige bruk. Du kan bruke Fragmin App bare i Norge og i jurisdiksjoner hvor slik bruk ikke er forbudt, hensyntatt eventuelle unntak eller begrensninger som måtte gjelde i jurisdiksjonen eller for nettverksleverandøren.   </li>
+    <li style="padding-left:15px; margin-top:14px;"><b>Råd.</b> Fragmin App er ikke en erstatning for medisinskfaglig skjønn, råd, vurderinger, diagnose eller behandling av helsetilstand eller helseproblem, og skal ikke anses som eller benyttes som en slik erstatning. </li>
+    <li style="padding-left:15px; margin-top:14px;"><b>Bruk av Fragmin App.</b>Ved enhver bruk av Fragmin App skal du alltid opptre i henhold til gjeldende lover og du skal ikke gjøre noe som skader, forstyrrer, påvirker, endrer eller forringer funksjonaliteten av Fragmin App.   </li>
+    <li style="padding-left:15px; margin-top:14px;"><b>Innhold</b> Du er enig i at tilgang til og bruk av Fragmin App og dens innhold finner sted din egen risiko. Pfizer og/eller dets tekniske tjenesteleverandør kan når som helst og etter eget ønske legge til, endre eller fjerne innhold i Fragmin App. Pfizer vil gjøre rimelige tiltak for å sikre at informasjonen i Fragmin App er nøyaktig og oppdatert, men gir ingen garantier eller inneståelser av noe slag knyttet til nøyaktighet, relevans, kvalitet, fullstendighet eller egnethet. Det gis ingen garantier av noe slag, direkte eller indirekte, så langt dette er tillatt ved lov. Verken Pfizer, selskaper i Pfizer-gruppen, eller annen person som har vært involvert i utviklingen, fremstillingen eller levering av Fragmin App skal være ansvarlig for tap, skade eller kostnader av noe slag, basert på kontrakt, ulovfestet ansvar, bortsett fra i tilfelle av grov uaktsomhet eller forsett, eller på annen måte et resultat av informasjon i Fragmin App eller som et resultat av tilgang til, bruk av eller hindret bruk av, Fragmin App, eller knyttet til feil eller utelatelser i dens innhold. Denne begrensningen inkluderer ethvert tap, skade eller kostnad som følge av virus eller annen skade påført din smarttelefon, hardware, software eller data.</li>
+    <li style="padding-left:15px; margin-top:14px;"><b>Tredjeparts nettsteder og lenker.</b>Fragmin App kan inneholde lenker eller referanser til andre nettsteder som drives av tredjeparter utenfor Pfizers kontroll. Slike lenker er tilgjengeliggjort kun som en tilleggsservice. Pfizer gir ingen garantier, inneståelser eller løfter av noe slag hva gjelder nøyaktighet, relevans, kvalitet, fullstendighet eller egnethet av informasjonen på slike nettsteder og har ikke ansvar for tap, skade eller kostnader av noe slag som måtte oppstå utfra denne informasjonen. Inkludering av en tredjepartslenke betyr ikke at Pfizer går god for eller anbefaler nettstedet.  </li>
+    <li style="padding-left:15px; margin-top:14px;"><b>Internettilgang og sikkerhet.  </b> For å kunne lastes ned krever Fragmin App internettilgang via tilbyder av trådløs tilgang, nettverksleverandør eller på annen måte.   Du er selv ansvarlig for alle kostnader for slik tilgang. Du erkjenner og aksepterer at bruk av internett ikke alltid er sikkert og at din bruk av internett og usikrede nettverk (herunder, men ikke begrenset til wireless hotspots) gjøres på din egen risiko.</li>
+     <li style="padding-left:15px; margin-top:14px;"><b>Oppdateringer.</b>Pfizer kan etter eget ønske fra tid til annen velge å tilby oppdateringer av Fragmin App. Dersom du velger å laste ned eller bruke en slik oppdatert versjon av Fragmin App, bekrefter du at du er bundet av ny versjon av disse Brukervilkårene som er gjeldende på tidspunktet du laster ned og/eller bruker den oppdaterte Fragmin App. Videre kan Pfizers distribusjon av Fragmin App via tredjeparts tjenester (for eksempel Apple App Store) kreve at brukerne fra tid til annen laster ned nye eller oppdaterte versjoner av Fragmin App, og du bekrefter at du er bundet av ny versjon av disse Brukervilkårene som er gjeldende på tidspunktet du laster ned og/eller bruker den oppdaterte Fragmin App. Pfizer gir ingen garantier eller inneståelser om at eventuelle fremtidige oppdateringer av Fragmin App vil være kompatible med hardware eller software eller applikasjoner (herunder eventuelle fremtidige versjoner eller oppdateringer av din smarttelefon eller dets operativsystem) eller tilby samme funksjonalitet som gjeldende versjon av Fragmin App. </li>
+    <li style="padding-left:15px; margin-top:14px;"><b>Ikke-konfidensiell Information. </b>All kommunikasjon eller annet materiale som du sender til Pfizer via internett, post, elektronisk post eller på annen måte, som f.eks. spørsmål, kommentarer eller forslag, er og vil bli ansett som ikke-konfidensiell og Pfizer påtar seg ingen forpliktelser eller ansvar av noe slag i forhold til slik informasjon. Pfizer kan fritt bruke enhver ide, ethvert konsept, knowhow eller teknikker som formidles i slik kommunikasjon eller materiale for et hvilket som helst formål, herunder, men ikke begrenset til utvikling, produksjon og markedsføring av produkter uten ansvar eller forpliktelser, finansielt eller på annen måte, overfor noen.</li>
+    <li style="padding-left:15px; margin-top:14px;"><b>Eiendomsrett. </b>I henhold til Brukervilkårene gis du en bruksrett til Fragmin App, den selges ikke til deg. Du har ingen eiendomsrett i eller til Fragmin App, tjenester eller funksjonalitet som følger Fragmin App, eller til tilhørende dokumentasjon. Pfizer har i behold alle rettigheter, herunder men ikke begrenset til eiendomsrett, i og til Fragmin App og alle tilhørende tjenester, funksjonaliteter og dokumentasjon. </li>
+    <li style="padding-left:15px; margin-top:14px;"><b>Immaterielle Rettigheter. </b>Innholdet som gjøres tilgjengelig av Pfizer ved Fragmin App, herunder men ikke begrenset til video, tekst bilder, og grafikk, er beskyttet i henhold til norsk og internasjonal opphavsrett, og er underlagt annen immaterialrettslig beskyttelse og eiendomsrett, og innehas av Pfizer og/eller dets lisensgivere og leverandører. Alt innhold i Fragmin App er underlagt opphavsrettslig beskyttelse. Opphavsrett © 2014 Pfizer Inc. Du må ikke kopiere, endre, utgi, overføre, selge, tilby for salg, lisensiere eller re-distribuere innholdet på noen måte uten skriftlig forhåndssamtykke fra Pfizer. Du må etterleve alle opphavsrettslige angivelser, informasjon og begrensninger som er inkludert i eller vedlagt Fragmin App. Navn, logoer, og materiale som vises i Fragmin App er varemerker, handelsnavn, servicemerker eller logoer som eies eller lisensieres av Pfizer, selskaper i Pfizer-gruppen, datterselskaper eller relaterte selskaper. Eiendomsretten til alle varemerker og goodwill som er forbundet med disse er Pfizers, eller i tilfelle av lisensierte varemerker, lisensgivers.</li>
+    <li style="padding-left:15px; margin-top:14px;"><b>Hardware og software kompabilitet. </b>Pfizer gir ingen garantier eller inneståelser om at Fragmin App er kompatible med hardware eller software eller applikasjoner, herunder heller ikke noen spesifikk versjon av din telefon, tablet, maskin, eller dets spesifikke operativsystem.</li>
+    <li style="padding-left:15px; margin-top:14px;"><b>Diverse. </b>Dersom noen av bestemmelsene I disse Brukervilkårene skulle bli ansett å være ulovlig, ugyldig eller ikke kunne håndheves, så skal vedkommende bestemmelse slettes uten at dette påvirker gyldigheten eller håndheving av de øvrige bestemmelsene.</li>
+    <li style="padding-left:15px; margin-top:14px;"><b>Norsk rett.</b>Disse Brukervilkårene og bruk av Fragmin App er underlagt norsk rett og tvister som oppstår skal løses av norske domstoler. </li>
+    </ol>
+    <div style="width:100%;height:100px;border:1px solid #000;font-size:15px; background-color:#D6D3D3;padding-top:10px">
+    <center><b>Pfizer KAN ENDRE disse Brukervilkårene frA TID TIL ANNEN. DU BØR REGELMESSIG GÅ
+    		GJENNOM Brukervilkårene DA ENHVER ENDRING GJELDER STRAKS DEN ER PUBLISERT.</b></center></div>
+
+
+    </body></html>  ]]>
+    </string>
+
+    <!-- Terms of use screen ends -->
+
+
+    <!-- Fragment Dosage Text -->
+
+    <string name="fragdosage_tv_heading_txt">Fragmin dosering</string>
+    <string name="fragdosage_tv_belowpickers_txt">Please verify weight and indication before proceeding</string>
+
+    <string-array name="array_indications">
+        <item>""</item>
+        <item>Kirurgi og ortopedi</item>
+        <item>Kreft</item>
+        <item>Akutt DVT and LE</item>
+        <item>Immobiliserte pasienter</item>
+        <item>Ustabil hjertesykdom</item>
+        <item>Hemodialyse/ -filtrasjon</item>
+        ></string-array>
+    <string-array name="weight_array">
+        <item> &lt;</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+        <item>60</item>
+        <item>61</item>
+        <item>62</item>
+        <item>63</item>
+        <item>64</item>
+        <item>65</item>
+        <item>66</item>
+        <item>67</item>
+        <item>68</item>
+        <item>69</item>
+        <item>70</item>
+        <item>71</item>
+        <item>72</item>
+        <item>73</item>
+        <item>74</item>
+        <item>75</item>
+        <item>76</item>
+        <item>77</item>
+        <item>78</item>
+        <item>79</item>
+        <item>80</item>
+        <item>81</item>
+        <item>82</item>
+        <item>83</item>
+        <item>&gt;</item>
+    </string-array>
+
+    <!-- Indication : Surgery and orthopedics -->
+    <string name="surgery_expandable_view_1">Tromboseprofylakse ved kirurgi</string>
+    <string name="surgery_expandable_view_2">Langtidsprofylakse ved kirurgi</string>
+    <string name="surgery_expandable_view_1_text">
+<![CDATA[<html><body><p><b>Ved generell kirurgi med risiko for tromboemboliske komplikasjoner:</b></p>
+</p>
+
+<div><p>2 500 IU s.c. 1-2 timer fÃ¸r operasjonen, deretter 2 500 IU s.c. hver morgen.</p><div>
+							<div><p>Behandlingen fortsetter til pasienten er mobilisert, vanligvis 5-7 dÃ¸gn eller lenger</p><div>
+							<div><p>2 500IU</p></div>
+							<div><img src="images/bluesyringe-img-2500.png" /></div>
+							<div><p><b>HÃ¸y risiko for tromboemboliske komplikasjoner:<b></p>
+							<div> <b>5 000 IU</b></div>
+							<div> <img src="images/orangesyringe.png"/></div>
+							<div> <p> 5 000 IU s.c. kvelden fÃ¸r operasjonen, deretter 5 000 IU s.c. hver kveld. Behandlingen fortsetter til pasienten er mobilisert, vanligvis 5-7 dÃ¸gn eller lenger.</p>
+							<div> <p>
+								Alternativt:
+								<br />2 500 IE s.c. 1-2 timer fÃƒÂ¸r operasjonen og
+								<br />2 500 IE s.c. 8-12 timer senere, deretter
+								<br />5 000 IE s.c. hver morgen i 5-7 dager.
+							</p>
+
+
+</body></html>]]>
+    </string>
+    <string name="surgery_expandable_view_2_text">
+<![CDATA[<html><body> <div>
+										<p>5 000 IU</p>
+										<div><img src="images/orangeSyringe.png" /></div>
+										<p>Langtidsprofylakse ved hoftekirurgi</p>
+							<p>Det finnes to muligheter for start av behandling (se nedenfor).</p>
+							<p>
+								<strong>1. Preoperativ start Ã¢â‚¬â€œ kvelden fÃƒÂ¸r operasjon:</strong>
+								<br />Kvelden fÃƒÂ¸r operasjon: 5 000 IE
+								<br />Deretter hver kveld: 5000 IE
+								<br />Postoperativt 5 uker: 5 000 IE hver kveld<sup>1</sup>
+							</p>
+
+							<p>
+								<strong>2. Preoperativ start Ã¢â‚¬â€œ operasjonsdagen:</strong>
+								<br />1-2 timer fÃƒÂ¸r operasjon: 2500 IE
+								<br />8-12 timer etter operasjon: 2500 IE
+								<br />Postoperativt 5 uker: 5 000 IE hver morgen<sup>1</sup>
+							</p>
+
+							<p><sup>1</sup> Injeksjonene gis med cirka 24 timers mellomrom</p>
+						</div>
+
+
+    </body></html>]]>
+    </string>
+
+    <!-- Indication: cancer -->
+    <string name="cancer_expandable_view_1">1. måned</string>
+    <string name="cancer_expandable_view_2">2.- 6. måned</string>
+    <string name="cancer_expandable_view_3">Dosereduksjon</string>
+    <string name="cancer_weight_lessthan_46_view_1">
+<![CDATA[<html><body><p>200 IU/kg <em>kroppsvekt</em></p>
+								<div><img src="images/greenSyringe-img-7500.png" /></div>
+								<p>200 IE/kg kroppsvekt gis s.c. 1 gang daglig de fÃƒÂ¸rste 30 dagene. Den totale dosen bÃƒÂ¸r ikke overtige 18 000 IE.</p>
+								<p><strong>INDIKASJON</strong><br />Behandling av symptomgivende venÃ¸s tromboembolisme (VTE) med etterfÃ¸lgende utvidet profylakse mot VTE-residiv hos pasienter med kreft.</p>
+								<p>Ved nyresvikt hos kreftpasienter:</p>
+								<p>Ved kreatininnivÃ¥ > 3 ganger Ã¸vre normalomrÃ¥de, bÃ¸r dosen tilpasses for Ã¥ opprettholde et terapeutisk nivÃ¥ av anti-Xa pÃ¥ 1 IU/ml (0,5-1,5 IU/ml) mÃ¥lt 4-6 timer etter injeksjonen. Dersom anti-Xa nivÃ¥et er utenfor det terapeutiske omrÃ¥det, bÃ¸r dosen justeres til nÃ¦rmeste engangssprÃ¸yte og anti-Xa mÃ¥linger bÃ¸r gjentas etter 3-4 nye doser. Dosejusteringen gjentas til det terapeutiske nivÃ¥et av anti-Xa nÃ¥s.</p></body></html>]]>
+    </string>
+    <string name="cancer_weight_lessthan_46_view_2">
+<![CDATA[ <html><body>
+        <p>150 IU/kg <em>kroppsvekt</em></p>
+        <div><img src="images/orangeSyringe-img-7500.png" /></div>
+        <p>150 IU/kg bÃ¸r gis s.c. 1 gang daglig. Bruk engangssprÃ¸yter..</p>
+        <p><strong>INDIKASJON</strong>
+</br>Behandling av symptomgivende venÃ¸s tromboembolisme (VTE) med etterfÃ¸lgende utvidet profylakse mot VTE-residiv hos pasienter med kreft.
+        <p>Ved kreatininnivÃ¥ > 3 ganger Ã¸vre normalomrÃ¥de, bÃ¸r dosen tilpasses for Ã¥ opprettholde et terapeutisk nivÃ¥ av anti-Xa pÃ¥ 1 IU/ml (0,5-1,5 IU/ml) mÃ¥lt 4-6 timer etter injeksjonen. Dersom anti-Xa nivÃ¥et er utenfor det terapeutiske omrÃ¥det, bÃ¸r dosen justeres til nÃ¦rmeste engangssprÃ¸yte og anti-Xa mÃ¥linger bÃ¸r gjentas etter 3-4 nye doser. Dosejusteringen gjentas til det terapeutiske nivÃ¥et av anti-Xa nÃ¥s.</p></body></html>]]>
+    </string>
+    <string name="cancer_weight_lessthan_46_view_3">
+<![CDATA[<html><body>
+        <div><p>Dosereduksjon ved kjemoterapi-indusert trombocytopeni:</p>
+
+							<p>Ved blodplatetall <50 000/Ã‚Âµl, bÃƒÂ¸r behandlingen avbrytes inntil blodplatetallet er >50 000/Ã‚Âµl.</50>
+							<p>Ved blodplatetall 50 000-100 000/Ã‚Âµl, reduseres dosen med 17-33 \%% avhengig av pasientens vekt (se nedenfor). Ved blodplatetall Ã¢â€°Â¥ 100 000/Ã‚Âµl, bÃƒÂ¸r full dosering gjenopptas.</p>
+							<p><strong>Redusert Fragmindose</strong></p> </div>
+							<div >
+										<p>5 000 IU</p>
+										<div><img src="images/orangeSyring-img-5000.png" /></div>
+										<div>Dosereduksjon: 33%</div>
+										<div>
+
+							<p>Ved nyresvikt hos kreftpasienter:</p>
+							<p>Ved kreatininnivÃƒÂ¥ > 3 ganger ÃƒÂ¸vre normalomrÃƒÂ¥de, bÃƒÂ¸r dosen tilpasses for ÃƒÂ¥ opprettholde et terapeutisk nivÃƒÂ¥ av anti-Xa pÃƒÂ¥ 1 IE/ml (0,5-1,5 IU/ml) mÃƒÂ¥lt 4-6 timer etter injeksjonen. Dersom anti-Xa nivÃƒÂ¥et er utenfor det terapeutiske omrÃƒÂ¥det bÃƒÂ¸r dosen justeres til nÃƒÂ¦rmeste engangssprÃƒÂ¸yte og anti-Xa mÃƒÂ¥linger bÃƒÂ¸r gjentas etter 3-4 nye doser. Dosejusteringen gjentas til det terapeutiske nivÃƒÂ¥et av anti-Xa nÃƒÂ¥s.</p>
+						</div>
+
+									</div></body></html>]]>
+    </string>
+    <string name="cancer_weight_lessthan_57_view_1">
+<![CDATA[<html><body>
+        <p><b>10 000 IU</b> 0,4 ml 5 pk Vnr: 447110</p>
+        <div><img src"img/redSyringe.png"/></div>
+        <p>200 IU/kg kroppsvekt gis s.c. 1 gang daglig de fÃ¸rste 30 dagene. Den totale dosen bÃ¸r ikke overstige 18000 IU.<p>
+        <p><strong>INDIKASJON</strong></p>
+        <p>Behandling av symptomgivende venÃ¸s tromboembolisme (VTE) med etterfÃ¸lgende utvidet profylakse mot VTE-residiv hos pasienter med kreft.</p>
+        <p>Ved kreatininnivÃ¥ > 3 ganger Ã¸vre normalomrÃ¥de, bÃ¸r dosen tilpasses for Ã¥ opprettholde et terapeutisk nivÃ¥ av anti-Xa pÃ¥ 1 IU/ml (0,5-1,5 IU/ml) mÃ¥lt 4-6 timer etter injeksjonen. Dersom anti-Xa nivÃ¥et er utenfor det terapeutiske omrÃ¥det, bÃ¸r dosen justeres til nÃ¦rmeste engangssprÃ¸yte og anti-Xa mÃ¥linger bÃ¸r gjentas etter 3-4 nye doser. Dosejusteringen gjentas til det terapeutiske nivÃ¥et av anti-Xa nÃ¥s.</p>
+        </body></html>]]>
+    </string>
+    <string name="cancer_weight_lessthan_57_view_2">
+<![CDATA[<html><body>
+             <p><b>7500 IU</b> 0,3 ml 10 pk Vnr:399733</p>
+             <div><img src"greenSyringe.png"/></div>
+             <p>150 IE/kg bÃ¸r gis s.c. 1 gang daglig. Bruk engangssprÃ¸yter.</p>
+              <p><strong>INDIKASJON</strong></p>
+        	  <p>Behandling av symptomgivende venÃ¸s tromboembolisme (VTE) med etterfÃ¸lgende utvidet profylakse mot VTE-residiv hos pasienter med kreft.</p>
+        	  <p>Ved kreatininnivÃ¥ > 3 ganger Ã¸vre normalomrÃ¥de, bÃ¸r dosen tilpasses for Ã¥ opprettholde et terapeutisk nivÃ¥ av anti-Xa pÃ¥ 1 IU/ml (0,5-1,5 IU/ml) mÃ¥lt 4-6 timer etter injeksjonen. Dersom anti-Xa nivÃ¥et er utenfor det terapeutiske omrÃ¥det, bÃ¸r dosen justeres til nÃ¦rmeste engangssprÃ¸yte og anti-Xa mÃ¥linger bÃ¸r gjentas etter 3-4 nye doser. Dosejusteringen gjentas til det terapeutiske nivÃ¥et av anti-Xa nÃ¥s.</p>
+            </body></html>]]>
+    </string>
+    <string name="cancer_weight_lessthan_57_view_3">
+<![CDATA[<html><body>
+            <p>Dosereduksjon ved kjemoterapi-indusert trombocytopeni:</p>
+            <p>Ved blodplatetall <50 000/Âµl, bÃ¸r behandlingen avbrytes inntil blodplatetallet er >50 000/Âµl.</p>
+            <p>Ved blodplatetall 50 000-100 000/Âµl, reduseres dosen med 17-33\%% avhengig av pasientens vekt (se nedenfor). Ved blodplatetall â‰¥ 100 000/Âµl, bÃ¸r full dosering gjenopptas.</p>
+            <p><b>Redusert Fragmindose</b></p>
+
+            <p><b>5 000 IU</b><p>
+            <div><img src"yellow image"/></div>
+            <div>Dosereduksjon: 33%</div>
+            <div>
+
+							<p>Ved nyresvikt hos kreftpasienter:</p>
+							<p>Ved kreatininnivÃƒÂ¥ > 3 ganger ÃƒÂ¸vre normalomrÃƒÂ¥de, bÃƒÂ¸r dosen tilpasses for ÃƒÂ¥ opprettholde et terapeutisk nivÃƒÂ¥ av anti-Xa pÃƒÂ¥ 1 IE/ml (0,5-1,5 IU/ml) mÃƒÂ¥lt 4-6 timer etter injeksjonen. Dersom anti-Xa nivÃƒÂ¥et er utenfor det terapeutiske omrÃƒÂ¥det bÃƒÂ¸r dosen justeres til nÃƒÂ¦rmeste engangssprÃƒÂ¸yte og anti-Xa mÃƒÂ¥linger bÃƒÂ¸r gjentas etter 3-4 nye doser. Dosejusteringen gjentas til det terapeutiske nivÃƒÂ¥et av anti-Xa nÃƒÂ¥s.</p>
+						</div>
+
+
+            </body></html>]]>
+    </string>
+    <string name="cancer_weight_lessthan_69_view_1">
+<![CDATA[ <html><body>
+                 <p><b>12 500 IU 0,5 ml 5 pk Vnr: 447136</b></p>
+                 <div><img src"brownSyring.png"/></div>
+                 <p>200 IU/kg kroppsvekt gis s.c. 1 gang daglig de fÃ¸rste 30 dagene. Den totale dosen bÃ¸r ikke overstige 18 000 IU.</p>
+                 <p><strong>INDIKASJON</strong></p>
+                 <p>Behandling av symptomgivende venÃ¸s tromboembolisme (VTE) med etterfÃ¸lgende utvidet profylakse mot VTE-residiv hos pasienter med kreft.</p>
+                 <p><b>Ved nyresvikt hos kreftpasienter:</b></p>
+                 <p>Ved kreatininnivÃ¥ > 3 ganger Ã¸vre normalomrÃ¥de, bÃ¸r dosen tilpasses for Ã¥ opprettholde et terapeutisk nivÃ¥ av anti-Xa pÃ¥ 1 IU/ml (0,5-1,5 IU/ml) mÃ¥lt 4-6 timer etter injeksjonen. Dersom anti-Xa nivÃ¥et er utenfor det terapeutiske omrÃ¥det, bÃ¸r dosen justeres til nÃ¦rmeste engangssprÃ¸yte og anti-Xa mÃ¥linger bÃ¸r gjentas etter 3-4 nye doser. Dosejusteringen gjentas til det terapeutiske nivÃ¥et av anti-Xa nÃ¥s.</p>
+                </body></html>]]>
+1 </string>
+    <string name="cancer_weight_lessthan_69_view_2">
+<![CDATA[<html><body>
+                <p><b>10 000 IU  0,4 ml 5 pk Vnr. 447110</b></p>
+                <div><img src"redsyringe.png"/></div>
+                <p>150 IU/kg bÃ¸r gis s.c. 1 gang daglig. Bruk engangssprÃ¸yter.</p>
+                <p><b>INDIKASJON</b></p>
+                <p>Behandling av symptomgivende venÃ¸s tromboembolisme (VTE) med etterfÃ¸lgende utvidet profylakse mot VTE-residiv hos pasienter med kreft.</p>
+                <p><b>Ved nyresvikt hos kreftpasienter:</b></p>
+                <p>Ved kreatininnivÃ¥ > 3 ganger Ã¸vre normalomrÃ¥de, bÃ¸r dosen tilpasses for Ã¥ opprettholde et terapeutisk nivÃ¥ av anti-Xa pÃ¥ 1 IU/ml (0,5-1,5 IU/ml) mÃ¥lt 4-6 timer etter injeksjonen. Dersom anti-Xa nivÃ¥et er utenfor det terapeutiske omrÃ¥det, bÃ¸r dosen justeres til nÃ¦rmeste engangssprÃ¸yte og anti-Xa mÃ¥linger bÃ¸r gjentas etter 3-4 nye doser. Dosejusteringen gjentas til det terapeutiske nivÃ¥et av anti-Xa nÃ¥s.</p>
+                </body></html>]]>
+    </string>
+    <string name="cancer_weight_lessthan_69_view_3">
+<![CDATA[<html><body>
+                <p>Dosereduksjon ved kjemoterapi-indusert trombocytopeni:</p>
+                <p>Ved blodplatetall <50 000/Âµl, bÃ¸r behandlingen avbrytes inntil blodplatetallet er >50 000/Âµl</p>
+                <p>Ved blodplatetall 50 000-100 000/Âµl, reduseres dosen med 17-33% avhengig av pasientens vekt (se nedenfor). Ved blodplatetall â‰¥ 100 000/Âµl, bÃ¸r full dosering gjenopptas.</p>
+                <p><b>Redusert Fragmindose</b></p>
+                <p><b>7 500 IU</b></p>
+                <div><img src"greenSyringe.png"/></div>
+                <div>
+
+							<p>Ved nyresvikt hos kreftpasienter:</p>
+							<p>Ved kreatininnivÃƒÂ¥ > 3 ganger ÃƒÂ¸vre normalomrÃƒÂ¥de, bÃƒÂ¸r dosen tilpasses for ÃƒÂ¥ opprettholde et terapeutisk nivÃƒÂ¥ av anti-Xa pÃƒÂ¥ 1 IE/ml (0,5-1,5 IU/ml) mÃƒÂ¥lt 4-6 timer etter injeksjonen. Dersom anti-Xa nivÃƒÂ¥et er utenfor det terapeutiske omrÃƒÂ¥det bÃƒÂ¸r dosen justeres til nÃƒÂ¦rmeste engangssprÃƒÂ¸yte og anti-Xa mÃƒÂ¥linger bÃƒÂ¸r gjentas etter 3-4 nye doser. Dosejusteringen gjentas til det terapeutiske nivÃƒÂ¥et av anti-Xa nÃƒÂ¥s.</p>
+						</div>
+
+                </body></html]]>
+    </string>
+    <string name="cancer_weight_lessthan_83_view_1">
+<![CDATA[<html><body>
+                <p><b>15 000 IU 0,6 ml 5 pk Vnr: 447151</b></p>
+                <div><img src"Syringe image: Purple 15 000 IU"/></div>
+				<p>200 IU/kg kroppsvekt gis s.c. 1 gang daglig de fÃ¸rste 30 dagene. Den totale dosen bÃ¸r ikke overstige 18 000 IU.</p>
+				<p><b>INDIKASJON</b>
+				Behandling av symptomgivende venÃ¸s tromboembolisme (VTE) med etterfÃ¸lgende utvidet profylakse mot VTE-residiv hos pasienter med kreft.</br>
+				</p>
+				<p><b>Ved nyresvikt hos kreftpasienter:</b>
+
+				Ved kreatininnivÃ¥ > 3 ganger Ã¸vre normalomrÃ¥de, bÃ¸r dosen tilpasses for Ã¥ opprettholde et terapeutisk nivÃ¥ av anti-Xa pÃ¥ 1 IU/ml (0,5-1,5 IU/ml) mÃ¥lt 4-6 timer etter injeksjonen. Dersom anti-Xa nivÃ¥et er utenfor det terapeutiske omrÃ¥det, bÃ¸r dosen justeres til nÃ¦rmeste engangssprÃ¸yte og anti-Xa mÃ¥linger bÃ¸r gjentas etter 3-4 nye doser. Dosejusteringen gjentas til det terapeutiske nivÃ¥et av anti-Xa nÃ¥s.</br></p>
+                </body></html>]]>
+    </string>
+    <string name="cancer_weight_lessthan_83_view_2">
+<![CDATA[<html><body>
+                <p><b>12 500 IU 0,5 ml 5 pk Vnr: 447136</b></p>
+                <div><img src"brownSyringe.png"/></div>
+                <p>150 IU/kg bÃ¸r gis s.c. 1 gang daglig. Bruk engangssprÃ¸yter.</p>
+                <p><b>INDIKASJON</b>
+				Behandling av symptomgivende venÃ¸s tromboembolisme (VTE) med etterfÃ¸lgende utvidet profylakse mot VTE-residiv hos pasienter med kreft.</br></p>
+				<p><b>Ved nyresvikt hos kreftpasienter:</b></p>
+				<p>Ved kreatininnivÃ¥ > 3 ganger Ã¸vre normalomrÃ¥de, bÃ¸r dosen tilpasses for Ã¥ opprettholde et terapeutisk nivÃ¥ av anti-Xa pÃ¥ 1 IU/ml (0,5-1,5 IU/ml) mÃ¥lt 4-6 timer etter injeksjonen. Dersom anti-Xa nivÃ¥et er utenfor det terapeutiske omrÃ¥det, bÃ¸r dosen justeres til nÃ¦rmeste engangssprÃ¸yte og anti-Xa mÃ¥linger bÃ¸r gjentas etter 3-4 nye doser. Dosejusteringen gjentas til det terapeutiske nivÃ¥et av anti-Xa nÃ¥s.</p>
+                </body></html>]]>
+    </string>
+    <string name="cancer_weight_lessthan_83_view_3">
+<![CDATA[<html><body>
+                 <div><p>Dosereduksjon ved kjemoterapi-indusert trombocytopeni:</p>
+
+							<p>Ved blodplatetall <50 000/Âµl, bÃ¸r behandlingen avbrytes inntil blodplatetallet er >50 000/Âµl.</50>
+							<p>Ved blodplatetall 50 000-100 000/Âµl, reduseres dosen med 17-33\%% avhengig av pasientens vekt (se nedenfor). Ved blodplatetall â‰¥ 100 000/Âµl, bÃ¸r full dosering gjenopptas.</p>
+							<p><strong>Redusert Fragmindose</strong></p> </div>
+							<div >
+										<p>10 000 IU</p>
+										<div><img src="images/redSyring-img-5000.png" /></div>
+										<div>Dosereduksjon: 20%</div>
+
+									</div>
+									<div>
+
+							<p>Ved nyresvikt hos kreftpasienter:</p>
+							<p>Ved kreatininnivÃƒÂ¥ > 3 ganger ÃƒÂ¸vre normalomrÃƒÂ¥de, bÃƒÂ¸r dosen tilpasses for ÃƒÂ¥ opprettholde et terapeutisk nivÃƒÂ¥ av anti-Xa pÃƒÂ¥ 1 IE/ml (0,5-1,5 IU/ml) mÃƒÂ¥lt 4-6 timer etter injeksjonen. Dersom anti-Xa nivÃƒÂ¥et er utenfor det terapeutiske omrÃƒÂ¥det bÃƒÂ¸r dosen justeres til nÃƒÂ¦rmeste engangssprÃƒÂ¸yte og anti-Xa mÃƒÂ¥linger bÃƒÂ¸r gjentas etter 3-4 nye doser. Dosejusteringen gjentas til det terapeutiske nivÃƒÂ¥et av anti-Xa nÃƒÂ¥s.</p>
+						</div>
+
+                </body></html>]]>
+    </string>
+    <string name="cancer_weight_morethan_83_view_1">
+<![CDATA[<html><body>
+                <p>18 000 IU 0,72 ml 5 pk Vnr: 447052</p>
+				<div><img src"Syringe: Grey"/></div>
+				<p>Maksimal engangsdose bÃ¸r ikke overskride 18 000 IU. Til pasienter med kroppsvekt >90 kg, se spesielle pasientgrupper.
+                </p>
+                </body></html>]]>
+    </string>
+    <string name="cancer_weight_morethan_83_view_2">
+<![CDATA[<html><body>
+                <p><b>15 000 IU 0,6 ml 5 pk Vnr: 447151</b></p>
+                <div><img src"purpleSyringe.png"/></div>
+                <p>150 IU/kg bÃ¸r gis s.c. 1 gang daglig. Bruk engangssprÃ¸yter.</p>
+                <p><b>INDIKASJON</b>
+				Behandling av symptomgivende venÃ¸s tromboembolisme (VTE) med etterfÃ¸lgende utvidet profylakse mot VTE-residiv hos pasienter med kreft.</br></p>
+				<p><b>Ved nyresvikt hos kreftpasienter:</b></p>
+				<p>Ved kreatininnivÃ¥ > 3 ganger Ã¸vre normalomrÃ¥de, bÃ¸r dosen tilpasses for Ã¥ opprettholde et terapeutisk nivÃ¥ av anti-Xa pÃ¥ 1 IU/ml (0,5-1,5 IU/ml) mÃ¥lt 4-6 timer etter injeksjonen. Dersom anti-Xa nivÃ¥et er utenfor det terapeutiske omrÃ¥det, bÃ¸r dosen justeres til nÃ¦rmeste engangssprÃ¸yte og anti-Xa mÃ¥linger bÃ¸r gjentas etter 3-4 nye doser. Dosejusteringen gjentas til det terapeutiske nivÃ¥et av anti-Xa nÃ¥s.</p>
+                </body></html>]]>
+    </string>
+    <string name="cancer_weight_morethan_83_view_3">
+<![CDATA[<html><body>
+                <div><p>Dosereduksjon ved kjemoterapi-indusert trombocytopeni:</p>
+
+							<p>Ved blodplatetall <50 000/Âµl, bÃ¸r behandlingen avbrytes inntil blodplatetallet er >50 000/Âµl.</50>
+							<p>Ved blodplatetall 50 000-100 000/Âµl, reduseres dosen med 17-33\%% avhengig av pasientens vekt (se nedenfor). Ved blodplatetall â‰¥ 100 000/Âµl, bÃ¸r full dosering gjenopptas.</p>
+							<p><strong>Redusert Fragmindose</strong></p> </div>
+							<div >
+										<p>12 500 IU</p>
+										<div><img src="images/brown-img-5000.png" /></div>
+										<div>Dosereduksjon: 17%</div>
+
+									</div>
+									<div>
+
+							<p>Ved nyresvikt hos kreftpasienter:</p>
+							<p>Ved kreatininnivÃƒÂ¥ > 3 ganger ÃƒÂ¸vre normalomrÃƒÂ¥de, bÃƒÂ¸r dosen tilpasses for ÃƒÂ¥ opprettholde et terapeutisk nivÃƒÂ¥ av anti-Xa pÃƒÂ¥ 1 IE/ml (0,5-1,5 IU/ml) mÃƒÂ¥lt 4-6 timer etter injeksjonen. Dersom anti-Xa nivÃƒÂ¥et er utenfor det terapeutiske omrÃƒÂ¥det bÃƒÂ¸r dosen justeres til nÃƒÂ¦rmeste engangssprÃƒÂ¸yte og anti-Xa mÃƒÂ¥linger bÃƒÂ¸r gjentas etter 3-4 nye doser. Dosejusteringen gjentas til det terapeutiske nivÃƒÂ¥et av anti-Xa nÃƒÂ¥s.</p>
+						</div>
+
+                </body></html>]]>
+    </string>
+
+    <!-- Indication: Unstable heart disease -->
+    <string name="heart_disease_expandable_view_1">Akutt fase</string>
+    <string name="heart_disease_expandable_view_2">Forlenget fase (individuell vurdering)</string>
+    <string name="heart_disease_expandable_view_1_text">
+<![CDATA[<html><body>
+        <p><b>120 IU/kg s.c. x 2</b></p>
+
+
+        <p><b>Maks 10 000 IU x 2 per dÃ¸gn</b></p>
+        <p>INDIKASJON
+		Tilleggsbehandling av ustabil angina og myokard infarkt uten Q-takk</br> </p>
+		<p>Gis til pasienter som oppfyller fÃ¸lgende kriterier:
+		Ustabil angina pectoris eller vedvarende brystsmerter ledsaget av EKG-forandringer i form av forbigÃ¥ende eller vedvarende ST-senkninger (0,1 mV eller mer) og T-takk inversjon (0,1 mV eller mer) i minst to tilgrensende avledninger uten at det foreligger patologiske Q-takk i de samme avledningene.</br></p>
+
+		<p>Vanlig behandlingstid er 6 dager. Lengre behandlingstid mÃ¥ vurderes individuelt.</p>
+
+        </body></html>]]>
+    </string>
+    <string name="heart_disease_expandable_view_2_text">
+<![CDATA[<html><body>
+        <p><b>120 IU/kg s.c. x 2 i 5-7 dager/b></p>
+
+
+        <p><b>Deretter se tekst nedenfor</b></p>
+        <p>For pasienter som har hatt stigning av troponin T eller l og som venter pÃ¥ revaskularisering, kan Fragmin gis fram til dagen for det invasive inngrepet (PTCA eller CABG), dog ikke utover 45 dager. Etter en initial stabilisering pÃ¥ 5-7 dager med dosen 120 IU/kg x 2 daglig, gis fÃ¸lgende fast dose:</p>
+
+		(<<Fragmin icon>>) Kvinner â‰¤ 80 og menn â‰¤ 70 kg: 5 000 IU s.c. 2 ganger daglig</br>
+		(<<Fragmin icon>>) Kvinner â‰¥80 og menn â‰¥70 kg: 7 500 IU s.c. 2 ganger daglig</br>
+
+		<p>Fragmin bÃ¸r gis i tillegg til standardbehandling av ustabil angina pectoris (f.eks lavdose acetylsalisylsyre, betablokkere og nitrater).
+
+		Refer to Fragmin Norway Release 1.0 Requirements Specifications Supplement for icons</br></p>
+
+        </body></html>]]>
+    </string>
+
+    <!-- Indication: Hemodialysis/-filtration indication -->
+    <string name="hemodialysis_expandable_view_1">Kronisk nyresvikt</string>
+    <string name="hemodialysis_expandable_view_2">Akutt nyresvikt</string>
+    <string name="hemodialysis_expandable_view_1_text">
+<![CDATA[<html><body>
+            <p>INDIKASJON</p>
+
+
+			<p>Antikoagulasjon ved hemodialyse og hemofiltrasjon</p>
+
+
+			<p><b>Ved kronisk nyresvikt, pasienter uten kjent blÃ¸dningsrisiko:</b></p>
+
+			<p><b>Hemodialyse og hemofiltrasjon i inntil 4 timer:</b></p>
+
+			5 000 IU</br>
+
+			<div><img src"Syringe image: Yellow 5 000 IU"/></div>
+
+			<p>IntravenÃ¸s bolusinjeksjon av 5 000 IU, eller tilsvarende dosering som ved varighet over 4 timer (se nedenfor).</p>
+			<p><b>Hemodialyse og hemofiltrasjon i mer enn 4 timer:</b></p>
+
+			<p>IntravenÃ¸s bolusinjeksjon av 30-40 IU/kg kroppsvekt, deretter 10-15 IU/kg/time som  intravenÃ¸s infusjon. Plasmanivaet bÃ¸r ligge i intervallet 0,5-1,0 IU anti-Xa/ml.</p>
+            </body></html>]]>
+    </string>
+    <string name="hemodialysis_expandable_view_2_text">
+<![CDATA[<html></body>
+            <p><b>Ved akutt nyresvikt, pasienter med stor blÃ¸dningsrisiko:</b></p>
+
+
+			<p>IntravenÃ¸s bolusinjeksjon av 5-10 IU/kg kroppsvekt, deretter 4-5 IU/kg/time som intravenÃ¸s infusjon. PlasmanivÃ¥er mÃ¥ ligge i intervallet 0,2-0,4 IU anti-Xa/ml.</p>
+            </body></html>]]>
+    </string>
+
+    <!-- dosering screen ends -->
+
+
+    <!-- Menu Item -->
+
+
+    <!-- Menu item 1 correct dose -->
+
+    <string name="special_patient_group">
+<![CDATA[<html><body>
+
+
+            <p>Overvektige:</p>
+
+            <p>Ved profylaktisk behandling av venÃ¸s tromboembolisme hos overvektige, bÃ¸r det gis hÃ¸yrisikodoser med Fragmin, 5 000-7 500 IU daglig.</p>
+
+            <p>Ved behandling av venÃ¸s tromboembolisme/lungeemboli finnes det begrenset erfaring med dosering 200 IU/kg hos pasienter med normal nyrefunksjon som har en kroppsvekt opp til 190 kg</p>
+
+          	<p>Det er ingen tilgjengelige data fra pasienter > 190 kg.</p>
+          	<p>Fragmin ferdigfylte sprÃ¸yter er tilpasset forskjellig kroppsvekt og er tilgjengelige for behandling av pasienter med en kroppsvekt opp til 90 kg. For pasienter >90 kg bÃ¸r det brukes en kombinasjon av ferdigfylte sprÃ¸yter som er tilpasset den totale dosen pasienten trenger.
+          	</p>
+
+          	<p>Alvorlig nedsatt nyrefunksjon (kreatininclearance <30 ml/minutt):</p>
+
+          	<p>I kliniske studier har profylaktisk behandling med Fragmin i doser opp til 5 000 IU daglig i inntil 10 dager hos alvorlig syke pasienter med nedsatt nyrefunksjon blitt godt tolerert. Ved bruk av doser pÃ¥ 10 000 IU eller hÃ¸yere og ved behandling >3 dager, bÃ¸r anti-Xa nivÃ¥ene overvÃ¥kes.</p>
+            </body></html>]]>
+    </string>
+
+    <!-- Conversion Table -->
+
+    <string name="fragconversion_tv_header">Omregninstabell</string>
+    <string name="fragconversion_tv_wheel">Dosering</string>
+
+    <string-array name="conversion_units">
+        <item>2 500 IE</item>
+        <item>5 000 IE</item>
+        <item>7 500 IE</item>
+        <item>10 000 IE</item>
+        <item>12 500 IE</item>
+        <item>15 000 IE</item>
+        <item>18 000 IE</item>
+        ></string-array>
+
+    <!-- conversion table dosing range description -->
+    <string name="range_item_1_description">
+<![CDATA[<html><body><p>12 500 IU <span>x 0,2 ml</span></p>
+					<div><img src="file:///android_res/drawable-hdpi/launcher.png" ></div>
+					<p>Dosering av Fragmin oppgis i antall IU (anti-Xa). EngangssprÃ¸ytene er merket med styrke (antall IU anti-Xa pr. ml) og volum. Det er derfor i mange tilfeller nÃ¸dvendig Ã¥ kunne regne om fra total mengde i engangssprÃ¸ytene (IU) til antall IU per ml.
+					</p>
+					</body></html>]]>
+    </string>
+    <string name="range_item_2_description">
+<![CDATA[<html><body><p>25 000 IU <span>x 0,2 ml</span></p>
+					<div><img src="drawable-hdpi/launcher.png"></div>
+					<p>Dosering av Fragmin oppgis i antall IU (anti-Xa). EngangssprÃ¸ytene er merket med styrke (antall IU anti-Xa pr. ml) og volum. Det er derfor i mange tilfeller nÃ¸dvendig Ã¥ kunne regne om fra total mengde i engangssprÃ¸ytene (IU) til antall IU per ml.
+					</p>
+					</body></html>]]>
+    </string>
+    <string name="range_item_3_description">
+<![CDATA[<html><body><p>25 000 IU <span>x 0,3 ml</span></p>
+					<div><img src="drawable-hdpi/launcher.png"></div>
+					<p>Dosering av Fragmin oppgis i antall IU (anti-Xa). EngangssprÃ¸ytene er merket med styrke (antall IU anti-Xa pr. ml) og volum. Det er derfor i mange tilfeller nÃ¸dvendig Ã¥ kunne regne om fra total mengde i engangssprÃ¸ytene (IU) til antall IU per ml.
+					</p>
+					</body></html>]]>
+    </string>
+    <string name="range_item_4_description">
+<![CDATA[<html><body><p>25 000 IU <span>x 0,4 ml</span></p>
+
+					<div><img src="drawable-hdpi/launcher.png"></div>
+
+					<p>Dosering av Fragmin oppgis i antall IU (anti-Xa). EngangssprÃ¸ytene er merket med styrke (antall IU anti-Xa pr. ml) og volum. Det er derfor i mange tilfeller nÃ¸dvendig Ã¥ kunne regne om fra total mengde i engangssprÃ¸ytene (IU) til antall IU per ml.
+					</p></body></html>]]>
+    </string>
+    <string name="range_item_5_description">
+<![CDATA[<html><body><p>25 000 IU <span>x 0,5 ml</span></p>
+					<div><img src="drawable-hdpi/launcher.png"></div>
+
+					<p>Dosering av Fragmin oppgis i antall IU (anti-Xa). EngangssprÃ¸ytene er merket med styrke (antall IU anti-Xa pr. ml) og volum. Det er derfor i mange tilfeller nÃ¸dvendig Ã¥ kunne regne om fra total mengde i engangssprÃ¸ytene (IU) til antall IU per ml.
+					</p></body></html>]]>
+    </string>
+    <string name="range_item_6_description">
+<![CDATA[<html><p>25 000 IU <span>x 0,6 ml</span></p>
+					<div><img src="drawable-hdpi/launcher.png"></div>
+					<p>Dosering av Fragmin oppgis i antall IU (anti-Xa). EngangssprÃ¸ytene er merket med styrke (antall IU anti-Xa pr. ml) og volum. Det er derfor i mange tilfeller nÃ¸dvendig Ã¥ kunne regne om fra total mengde i engangssprÃ¸ytene (IU) til antall IU per ml.
+					</p></body></html>]]>
+    </string>
+    <string name="range_item_7_description">
+<![CDATA[<html><body><p>25 000 IU <span>x 0,72 ml</span></p>
+					<div><img src="drawable-hdpi/launcher.png"></div>
+					<p>Dosering av Fragmin oppgis i antall IU (anti-Xa). EngangssprÃ¸ytene er merket med styrke (antall IU anti-Xa pr. ml) og volum. Det er derfor i mange tilfeller nÃ¸dvendig Ã¥ kunne regne om fra total mengde i engangssprÃ¸ytene (IU) til antall IU per ml.
+					</p></body></html>]]>
+    </string>
+
+    <!-- End of Conversion Table -->
+
+
+    <!-- special petient group -->
+
+    <string name="special_patient_group_title">Spesielle pasientgrupper</string>
+
+    <!-- side effects -->
+    <string name="side_effects_title">Bivirkninger</string>
+
+    <!-- what is fragmin -->
+    <string name="what_is_fragmin_title">Hva er Fragmin?</string>
+
+    <!-- fragmin contact information -->
+    <string name="fragmin_contact_info_title">Kontaktinformasjon for Fragmin </string>
+
+    <!-- information for professionals -->
+
+    <string name="info_for_professionals_title">FK-tekst  </string>
+    <string name="info_for_professionals_text">FK-tekst </string>
+    <string name="info_for_professionals_link_text">For Ã¥ lese mer om produktet, vennligst klikk pÃ¥ linken nedenfor</string>
+
+    <!-- Most common fragmin question -->
+
+
+    <!-- Most Common Fragmin questions  exapandable headings -->
+
+    <string name="most_common_fragmin_question_heading_1">Hvordan skal Fragmin oppbevares?</string>
+    <string name="most_common_fragmin_question_heading_2">Doseringsintervall â€“ glemt dose eller dosering 2 ganger daglig?</string>
+    <string name="most_common_fragmin_question_heading_3">NÃ¥r skal ikke Fragmin gis?</string>
+    <string name="most_common_fragmin_question_heading_4"> Behandling av DVT ved graviditet?</string>
+    <string name="most_common_fragmin_question_heading_5">Skal luftboblen i sprÃ¸yten fjernes?</string>
+    <string name="most_common_fragmin_question_heading_6">Bruk ved nyresvikt og dialyse</string>
+    <string name="most_common_fragmin_question_heading_7">Bruk til pasienter ved spinal/epidural anestesi</string>
+
+    <!-- Most commom Fragmin questions expandable headings -->
+
+    <string name="most_common_fragmin_question_heading_1_description">
+<![CDATA[<html><body>
+       <p>
+						<strong>Svar:</strong> FÃ¸lgende engangssprÃ¸yter skal ikke oppbevares over 25Â°C.<br />
+
+						<div>
+							25 000 IU (anti-Xa)/ml:
+							<p>0,4 ml/engangsspr. <span class="breakLine"></span>(0,4 ml = 10 000 IE) </p>
+							<p>0,5 ml/engangsspr. <span class="breakLine"></span>(0,5 ml = 12 500 IE)</p>
+							<p>0,6 ml/engangsspr. <span class="breakLine"></span>(0,6 ml = 15 000 IE)</p>
+							<p>0,72 ml/engangsspr. <span class="breakLine"></span>(0,72 ml = 18 000 IE)</p>
+						</div>
+						<p>Ã˜vrige pakninger skal ikke oppbevares over 30ÂºC</p>
+        </body></html>]]>
+    </string>
+    <string name="most_common_fragmin_question_heading_2_description">
+<![CDATA[<html><body><p>
+						<strong>Glemt dose:</strong><br />
+						Dersom pasienten har glemt Ã¥ ta en dose Fragmin: Man skal ikke ta en dobbelt dose som erstatning for en glemt dose, men fortsett doseringen som normalt.
+					</p>
+					<strong>Administrering to ganger daglig:</strong>
+
+					<p>For pasienter med dyp venetrombose som har komplisert trombosesykdom eller Ã¸kt blÃ¸dningsrisiko kan doseringen 100 IU/kg 2 ganger daglig s.c. gis. Monitorering av behandlingen er vanligvis ikke nÃ¸dvendig, men ved behov kan aktiviteten fÃ¸lges med funksjonelle metoder for anti-Xa.</p>
+
+					<p>Etter s.c. administrering, nÃ¥s maksimal plasmakonsentrasjon etter 3-4 timer, nÃ¥r fÃ¸rste mÃ¥ling av plasmanivÃ¥ bÃ¸r gjÃ¸res. PlasmanivÃ¥et etter dosering 2 ganger daglig bÃ¸r ligge mellom 0,5-1,0 IU anti-Xa ml.</p>
+ 	    </body</html>]]>
+    </string>
+    <string name="most_common_fragmin_question_heading_3_description">
+<![CDATA[<html><body>
+<div><img src="pfizer.logo"/><p>Ved hypersensitivitet for Fragmin eller andre lavmolekylÃ¦re hepariner og/eller heparin, f.eks. tidligere bekreftet eller mistanke om immunologisk mediert heparin-indusert trombocytopeni (type II)</p></div>
+<div><img src="pfizer.logo"/><p> Ved akutt gastroduodenal ulcus og hjerneblÃ¸dning, eller andre aktive blÃ¸dninger</p></div>
+<div><img src="pfizer.logo"/><p> Ved alvorlige koagulasjonsforstyrrelser</p></div>
+<div><img src="pfizer.logo"/><p>Ved akutt eller subakutt septisk endokarditt</p></div>
+<div><img src="pfizer.logo"/><p> Ved skader og operasjoner i sentralnervesystemet, Ã¸yet og Ã¸ret</p></div>
+<div><img src="pfizer.logo"/><p> Ved behandling av akutt dyp venetrombose, lungeemboli og ustabil koronararterie sykdom, der pasientene samtidig fÃ¥r hÃ¸ye doser Fragmin, er spinal-/ epiduralanestesi kontraindisert pga. Ã¸kt fare for blÃ¸dning</p></div>
+<p> Legemidler som inneholder benzylalkohol mÃ¥ ikke brukes hos premature eller nyfÃ¸dte babyer</p>
+ 	    </body</html>]]>
+    </string>
+    <string name="most_common_fragmin_question_heading_4_description">
+<![CDATA[<html><body>
+        <p><strong>Graviditet</strong></p>
+					<p>Dalteparin gÃ¥r ikke over i placenta. En stor mengde data pÃ¥ gravide kvinner (utfallet av mer enn 1000 graviditeter) indikerer ingen misdannende eller fÃ¸to-/neonatal toksisitet. Fragmin kan benyttes under graviditet hvis det er klinisk behov for det.</p>
+
+					<p>Det foreligger mer enn 2000 publiserte kasus (studier, kasus-serier og rapporter) pÃ¥ administrasjon av dalteparin under graviditet. Sammenlignet med ufraksjonert heparin er det rapportert om lavere blÃ¸dningstendens og redusert risiko for osteoporotiske brudd. Den stÃ¸rste prospektive studien, EThIG (Efficacy of Thromboprophylaxis as an Intervention during Gravidity), omfattet 810 gravide kvinner. I undersÃ¸kelsen ble det brukt et graviditetsspesifikt skjema for risikoinndeling (lav, hÃ¸y, svÃ¦rt hÃ¸y risiko for venÃ¸s tromboemboli) ved daglige dalteparindoser pÃ¥ 50â€“150 IU/kg kroppsvekt (i noen tilfeller opp til maks. 200 IU/kg kroppsvekt). </p>
+
+					<p>Det foreligger imidlertid bare et fÃ¥tall randomiserte kontrollerte studier pÃ¥ bruken av lavmolekylÃ¦re hepariner under graviditet.</p>
+
+					<p>Dyrestudier har ikke vist teratogene eller fÃ¸totoksiske egenskaper av dalteparin </p>
+
+					<p>Fragmin 10 000 IU/ml injeksjonsvÃ¦ske inneholder benzylalkohol som konserveringsmiddel.  Benzylalkohol kan passere over i placenta.</p>
+					<p>Fragmin uten konserveringsmidler bÃ¸r derfor brukes under graviditet.</p>
+
+					<p>Epiduralanestesi ved fÃ¸dsel er absolutt kontraindisert hos kvinner som blir behandlet med hÃ¸ydose antikoagulantia. Forsiktighet anbefales ved behandling av pasienter med Ã¸kt risiko for blÃ¸dninger, for eksempel perinatale kvinner. Hos gravide i tredje trimester ble halveringstiden av dalteparin anti-Xa mÃ¥lt til Ã¥ vÃ¦re 4-5 timer.				</p>
+		</body></html>]]>
+    </string>
+    <string name="most_common_fragmin_question_heading_5_description">
+<![CDATA[<html><body>
+              	<p>
+						<strong>Svar:</strong></p>
+						<p>SprÃ¸yten inneholder en liten luftboble. Denne skal ikke presses ut fÃ¸r man injiserer da dette kan fÃ¸re til tap av legemiddel og dermed redusert dose. Luftboblen har ingen betydning nÃ¥r man injiserer i fettvev i huden.
+					</p>
+
+              </body></html>]]>
+    </string>
+    <string name="most_common_fragmin_question_heading_6_description">
+<![CDATA[<html><body>
+                  <strong>Ved nyresvikt:</strong>
+						Ved kreatininnivÃ¥> 3 ganger Ã¸vre normalomrÃ¥de, bÃ¸r dosen tilpasses for Ã¥ opprettholde et terapeutisk nivÃ¥ av anti-Xa pÃ¥ 1 IU/m; (0,5-1,5 IU/ml) mÃ¥lt 4-6 timer etter injeksjonen. Dersom anti-Xa nivÃ¥et er utenfor det terapeutiske omrÃ¥det, bÃ¸r dosen justeres til nÃ¦rmeste engangssprÃ¸yte og anti-Xa mÃ¥linger bÃ¸r gjentas etter 3-4 nye doser. Dosejusteringen gjentas til det terapeutiske nivÃ¥et av anti-Xa nÃ¥s.
+
+					</p>
+					<p>
+						<strong>Ved akutt nyresvikt, pasienter med stor blÃ¸dningsrisiko:</strong></p>
+						<p>IntravenÃ¸s bolusinjeksjon av 5â€‘10 IE/kg kroppsvekt, deretter 4â€‘5 IE/kg/time som intravenÃ¸s infusjon. PlasmanivÃ¥er mÃ¥ ligge i intervallet 0,2â€‘0,4 IE antiâ€‘Xa/ml.
+					</p>
+					<p>
+						<strong>Pasienter med alvorlig nedsatt nyrefunksjon (kreatininclearance <30 ml/min):</strong>
+						<p>I kliniske studier har profylaktisk behandling med Fragmin i doser opp til 5000 IE daglig i inntil 10 dager hos alvorlig syke pasienter med alvorlig nedsatt nyrefunksjon blitt godt tolerert. Ved bruk av doser pÃ¥ 10Â 000 IE eller hÃ¸yere og ved behandling i mer enn 3 dager, bÃ¸r anti-Xa nivÃ¥ene overvÃ¥kes.</p>
+						Generell kontroll av den antikoagulerende effekten av dalteparin er ikke nÃ¸dvendig, men bÃ¸r vurderes for spesifikke pasientgrupper blant annet pasienter med nyresvikt.</p>
+					</p>
+					<p>
+						<strong>Ved dialyse: </strong></p>
+						<p>Fragmin er indisert ved Antikoagulasjon ved hemodialyse og hemofiltrasjon.
+					</p>
+					<p>
+						<strong>Dosering ved kronisk nyresvikt, pasienter uten kjent blÃ¸dningsrisiko:</strong></p>
+						<p>Hemodialyse og hemofiltrasjon i inntil 4 timer: IntravenÃ¸s bolusinjeksjon av 5000 IE, eller tilsvarende dosering som ved varighet over 4 timer. Hemodialyse og hemofiltrasjon i mer enn 4 timer: IntravenÃ¸s bolusinjeksjon av 30â€‘40 IE/kg kroppsvekt, deretter 10â€‘15 IE/kg/time som intravenÃ¸s infusjon. PlasmanivÃ¥et bÃ¸r ligge i intervallet 0,5â€‘1,0 IE antiâ€‘Xa/ml.</p>
+						<p>Pasienter som fÃ¥r kronisk hemodialyse med Fragmin trenger normalt bare noen fÃ¥ dosejusteringer og dermed noen fÃ¥ undersÃ¸kelser av anti-Xa-nivÃ¥ene. Pasienter som fÃ¥r akutt hemodialyse har et smalere terapeutisk doseringsomrÃ¥de og bÃ¸r fÃ¥ omfattende monitorering av anti-Xa nivÃ¥ene.</p>
+
+				</div>
+			</li>
+                   </body></html>]]>
+    </string>
+    <string name="most_common_fragmin_question_heading_7_description">
+<![CDATA[<html><body>
+      	<p>Ved bruk av spinal/epiduralanestesi eller spinalpunksjon er det risiko for at pasienter som er antikoagulert eller som planlegges antikoagulert med lavmolekylÃ¦re hepariner eller heparin for Ã¥ forhindre tromboemboliske komplikasjoner, kan utvikle spinalt eller epiduralt hematom.Tilstanden kan fÃ¸re til langtids â€“ eller permanent paralyse.</p>
+
+		<p>Risiko Ã¸ker ved bruk av inneliggende epiduralkateter for administrering av analgetika eller ved samtidig inntak av legemidler som pÃ¥virker hemostasen, som f.eks. ikke-steroide antiinflammatoriske legemidler (NSAIDS), platehemmere eller andre antikoagulantia. Risikoen ser ogsÃ¥ ut til Ã¥ Ã¸ke ved traumatisk eller gjentatt epidural-/ spinalpunksjon.</p>
+
+		<p>Hvis en lege etter klinisk vurdering bestemmer Ã¥ administrere antikoagulasjon i forbindelse med epidural- eller spinalanestesi, skal det utvises sÃ¦rskilt oppmerksomhet og foretas hyppig overvÃ¥kning for Ã¥ se etter tegn eller symptomer pÃ¥ nevrologisk svekkelse, for eksempel ryggsmerter, sensorisk eller motorisk svikt (nummenhet og svakhet i benene) samt tarm- eller blÃ¦re-dysfunksjon. Sykepleiere bÃ¸r vÃ¦re trent til Ã¥ fange opp slike tegn og symptomer. Pasientene bÃ¸r instrueres om umiddelbart Ã¥ informere en sykepleier eller lege hvis de merker noe av det ovennevnte.</p>
+
+      </body></html>]]>
+    </string>
+    <string name="fragmin_contact_information">
+<![CDATA[<html><body>
+            <p>-  Applikasjonsversjon: Fragmin Norway v1.0.0
+			<br>-  Lokalt godkjenningsnummer (vil legges til nÃ¥r det er generert av lokalt kontor)
+			<br>- Denne applikasjonen er behandlet som et klasse I medisinsk utstyr i EU, og har vÃ¦rt CE-merket i henhold til gjeldende EU-regelverk og veiledning.
+			<br>-  Produsent: Pfizer Inc., 100 Route 206 North, Peapack, NJ 07977, USA
+			<br>-  Autorisert representant: Pfizer Consumer Healthcare Ltd, Tadworth, KT20 7NS, UK
+			<br>-  Bivirkninger ved Pfizer-produkter skal rapporteres. Vennligst ta kontakt med Pfizer pÃ¥ +47 67 52 61 00 for Ã¥ rapportere bivirkninger.
+			<br>-  Hvis du opplever et problem med dette medisinske utstyret, vennligst ta kontakt med Pfizer pÃ¥ +47 67 52 61 00.
+            </body></html>]]>
+    </string>
+    <string name="side_effects">
+<![CDATA[<html><body>
+
+            <p>Vanlige (â‰¥ 1/100 til < 1/10):</p>
+
+		<p>Blod/lymfe: Mild trombocytopeni (type I) som vanligvis er reversibel i lÃ¸pet av behandlingsperioden</p>
+
+		<p>Karsykdommer: BlÃ¸dninger</p>
+
+		<p>Lever/galle: ForbigÃ¥ende, mild til moderat Ã¸kning av levertransaminaser (ASAT, ALAT)</p>
+
+		<p>Generelle lidelser og reaksjoner pÃ¥ administrasjonsstedet: Subkutan hematom ved injeksjonsstedet. Smerte ved injeksjonsstedet</p>
+
+		<p>Risiko for blÃ¸dning avhenger av dose. De fleste blÃ¸dningene er milde. Alvorlige blÃ¸dninger er rapportert, noen tilfeller med fatal utgang.</p>
+
+		<p>Produkter med heparin kan forÃ¥rsake hypoaldosteronisme som kan fÃ¸re til Ã¸kt kalium i plasma. I sjeldne tilfeller kan klinisk signifikant hyperkalemi oppstÃ¥ delvis hos pasienter med kronisk nyresvikt eller diabetes mellitus.</p>
+
+		<p>Langtidsbehandling med heparin har blitt assosiert med en risiko for osteoporose.  Selv om dette ikke er observert med dalteparin, kan ikke risiko for osteoporose utelukkes.</p>
+
+		<p>Ã˜vrige bivirkninger, se FK-tekst</p>
+
+
+            </body></html>]]>
+    </string>
+
+    <!-- what is fragmin -->
+    <string name="what_is_fragmin_screen_text">
+<![CDATA[<html><body>
+            <div>
+		<h1>Hva er Fragmin?</h1>
+		<hr />
+	</div>
+
+	<div>
+		<p>Fragmin er et lavmolekylÃ¦rt heparin med antitrombotiske egenskaper.</p>
+		<p>Fragmin inneholder dalteparin natrium som er et lavmolekylÃ¦rt heparin fremstilt av tarmmukosa fra svin og har en gjennomsnittlig molekylvekt pÃ¥ 5000.</p>
+		<p>Den antitrombotiske effekten av dalteparin natrium virker ved Ã¥ akselerere hemmingen av Faktor Xa og trombin ved Ã¥ aktivere koagulasjonsfaktorer gjennom kompleksbinding av antitrombin (AT).</p>
+		<p>For mer informasjon, se <a href="www.pfizer.no/fragmin">www.pfizer.no/fragmin</a> eller kontakt:<br />Pfizer AS pÃ¥ tlf 67 52 61 00</p>
+
+	</div>
+
+</div>
+            </body></html>]]>
+    </string>
+    <string name="information_about_professional">
+<![CDATA[<html><body>
+            <p>FK-tekst
+
+For Ã¥ lese mer om produktet, vennligst klikk pÃ¥ linken nedenfor</p>
+
+<div><a href" http://www.felleskatalogen.no/m/medisin/fragmin-pfizer-559418"><img src"image"></a></div>
+
+
+<p>Du mÃ¥ ha en aktiv internett-tilkobling for Ã¥ fÃ¥ tilgang til FK-tekst-linken.</p>
+
+
+            </body></html>]]>
+    </string>
+
+    <!-- User guide Screen -->
+
+
+    <!-- Indended use -->
+    <string name="intended_use_title">Tiltenkt bruk</string>
+    <string name="intended_use_text">
+<![CDATA[<html><body>
+        <p> Fragmin doseringsveileder er en programvareapplikasjon for mobil, som er ment å være et hjelpemiddel til helsepersonell for å bestemme anbefalt medisindose og gir tilgang til administreringsveiledning for legemidlet Fragmin. Doseringsanbefalingen er basert på aktuell indikasjon og pasientens vekt. </p>
+        <p>I Fragmin doseringsveileder programvareapplikasjon for mobil kan helsepersonell beregne dosen legemiddel og vurdere anbefalinger vedrørende administrering av Fragmin, til pasienter med følgende indikasjoner:</p>
+        <ul list-style-type:disc>
+        <li>Tromboseprofylakse ved kirurgi.</li>
+         <li>Langtidsprofylakse ved hoftekirurgi.</li>
+         <li>Behandling av akutt dyp venetrombose og lungeemboli, når trombolytisk behandling eller kirurgi ikke er indisert.</li>
+         <li>Antikoagulasjon ved hemodialyse og hemofiltrasjon.</li>
+          <li>Tilleggsbehandling av ustabil angina og myokard infarkt uten Q-takk.</li>
+           <li>Profylakse hos pasienter med kraftig økt risiko for venøs tromboembolisme og som er immobilisert pga akutte medisinske tilstander som for eksempel ved hjertesvikt, respirasjonssvikt og alvorlige infeksjoner.</li>
+           <li> Behandling av symptomgivende venøs tromboembolisme (VTE) med etterfølgende utvidet profylakse mot VTE-residiv hos pasienter med kreft.</li>
+            </ul>
+            <p>Fragmin doseringsveileder er tenkt brukt av helsepersonell sammen med den godkjente preparatomtalen (SPC) for Fragmin, som gir detaljert informasjon vedrørende legemiddelet Fragmin, inkludert kontraindikasjoner og advarsler og forsiktighetsregler. </p>
+        </body></html>]]>
+    </string>
+    <!-- Intended use ends -->
+
+    <!-- Security Bulletin -->
+
+    <string name="user_guide_security_bulletin_title">Sikkerhetsbulletinen</string>
+    <string name="user_guide_security_bulletin_text"><![CDATA[<html><body>
+        <p>Det er brukerne av Fragmin Doseringsveileder som er ansvarlig for at deres system har tilstrekkelig sikkerhet og antivirus-beskyttelse. Dette inkluderer å benytte oppdatert operativsystem, og å regelmessig oppdatere antivirus-beskyttelsen med siste tilgjengelig virusdefinisjoner.</p></body></html>]]></string>
+    <!-- Security Bulletin ends -->
+
+    <!-- Acronym Table -->
+    <string name="user_guide_acronym_table_title">Akronym tabell</string>
+   	<string name="user_guide_acronym_table_text"><![CDATA[<html><body>
+   	      <ul list-style-type:disc>
+   	      <li>CABG – Coronary artery bypass graft</li>
+   	      <li>IU – Internasjonal Enhet</li>
+   	      <li> kg – kilogram</li>
+   	      <li>PTCA – Percutaneous transluminal coronary angioplasty</li>
+   	      <li>s.c. – sub-kutan</li>
+   	    </body></html>]]></string>
+    <!-- Acronym table ends -->
+    <string name="tap_and_continue"> Trykk for å fortsette</string>
+    <!-- User Guide ends -->
+</resources>
